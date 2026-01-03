@@ -1,5 +1,6 @@
 # 💳 Salesforce – Stripe Payment Gateway Integration
 
+
 This project demonstrates a complete **Stripe Payment Gateway integration with Salesforce** using **Apex**, **Lightning Web Components (LWC)**, and **Stripe Webhooks**.  
 <br>
 The solution enables secure online payments for Salesforce custom orders and automatically updates Salesforce records after successful transactions.
@@ -34,6 +35,14 @@ This implementation follows **Salesforce and Stripe best practices** for securit
 
 <!--What I learned here-->
 
+<!-- Divider GIF -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br>
+
+# What I Faced  & Learned :
+
 ## ⚠️ Common Issues Handled
 
 | Issue | Resolution |
@@ -42,6 +51,10 @@ Webhook returns 200 but no records created | Fixed by passing `client_reference_
 STRING_TOO_LONG errors | Payload safely truncated |
 Guest user DML failures | Correct permissions applied |
 Order lookup confusion | Corrected object labels and API usage |
+
+
+
+<br>
 
 
 ## ⚠️ Challenges Faced & Key Learnings (VERY IMPORTANT)
@@ -132,7 +145,13 @@ This project involved multiple real-world challenges that significantly improved
 - Always rely on API names (`Order__c`) in code
 - Validate lookup relationships carefully
 
----
+<!-- Divider GIF -->
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
 
