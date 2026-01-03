@@ -207,6 +207,9 @@ This project involved multiple real-world challenges that significantly improved
 
 
 
+# Project Structure in Sandbox
+
+<img width="361" height="558" alt="SandBox-Structure" src="https://github.com/user-attachments/assets/cc7f96f5-4d36-4f59-93b2-ed442fa6e29e" />
 
 
 
