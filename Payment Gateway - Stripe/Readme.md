@@ -1,4 +1,5 @@
 # 💳 Salesforce – Stripe Payment Gateway Integration
+<p align="center"><strong><code> JAN 1 2026 - JAN 3 2026 </code></strong></p>
 
 
 This project demonstrates a complete **Stripe Payment Gateway integration with Salesforce** using **Apex**, **Lightning Web Components (LWC)**, and **Stripe Webhooks**.  
@@ -6,6 +7,40 @@ This project demonstrates a complete **Stripe Payment Gateway integration with S
 The solution enables secure online payments for Salesforce custom orders and automatically updates Salesforce records after successful transactions.
 
 ---
+# Working Video:
+
+## Step-1: Order Creation
+
+https://github.com/user-attachments/assets/96c0ab7c-7bba-4d69-a103-dea5d7dc077e
+
+
+## Step-2: Checkout Page - Stripe
+
+
+
+https://github.com/user-attachments/assets/a81fe09f-61af-495a-beb3-07524015869d
+
+
+
+## Step-3: Data Returned from Stripe
+
+
+
+
+https://github.com/user-attachments/assets/3a393fea-17b2-49ba-88a2-46b19bd69560
+
+
+# Stripe UI:
+
+
+
+
+
+
+
+
+
+
 
 ## 📌 Project Overview
 
